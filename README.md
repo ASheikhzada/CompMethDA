@@ -1,2 +1,2 @@
 # CompMethDA
-This repository contain some python codes developed while taking the computational methods for data analysis course.
+This repository contains some python codes developed while taking the computational methods for data analysis course.
